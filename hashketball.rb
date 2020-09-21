@@ -19,7 +19,7 @@ def game_hash
       :team_name{"Charlotte Hornets"}, 
       :colors{"Turquoise, Purple"}, 
       :players{
-        :player_name{"Jeff Adrien", "Bismack Biyombo", "DeSagna Diop", },
+        :player_name{"Jeff Adrien", "Bismack Biyombo", "DeSagna Diop", "Ben Gordon", },
         :number{},
         :shoe{},
         :points{},
